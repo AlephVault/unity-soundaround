@@ -1,0 +1,13 @@
+{
+  "name": "com.alephvault.unity.soundaround",
+  "version": "0.0.1",
+  "displayName": "Aleph Vault - Unity - SoundAround",
+  "description": "several small sound utilities.",
+  "unity": "2018.1",
+  "dependencies": {},
+  "author": {
+    "name": "Aleph Vault",
+    "email": "info@alephvault.com",
+    "url": "http://www.alephvault.com"
+  }
+}
