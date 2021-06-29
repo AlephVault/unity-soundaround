@@ -1,4 +1,4 @@
-# Unity Support
+# Unity SoundAround
 This package contains several small sound utilities.
 
 # Install
