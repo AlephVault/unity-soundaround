@@ -1,4 +1,4 @@
-# Unity SoundAround
+﻿# Unity SoundAround
 
 This package provides sound-related utilities to be used in games.
 
@@ -25,3 +25,4 @@ This behaviour converts an audio source into a loop. There are some properties h
 - `private bool relativeToFrequency`: If true, the values of `loopAt` and `loopTo` are expressed in seconds instead of frames.
 - `private float loopAt`: When this frame (or second fraction) is reached, then a loop will be performed.
 - `private float loopTo`: When a loop is performed, this is the frame (or second fraction) the pointer will jump to.
+
