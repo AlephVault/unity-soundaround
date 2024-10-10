@@ -7,7 +7,7 @@ This package provides sound-related utilities to be used in games.
 This package is not available in any UPM server. You must install it in your project like this:
 
 1. In Unity, with your project open, open the Package Manager.
-2. Either refer this Github project: https://github.com/AlephVault/unity-soundaround.git or clone it locally and refer it from disk.
+2. Either refer this GitHub project: https://github.com/AlephVault/unity-soundaround.git or clone it locally and refer it from disk.
 3. This package has no dependencies.
 
 # Usage
